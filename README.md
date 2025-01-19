@@ -22,6 +22,6 @@
 > Useful information & code for everyone to learn cryptography, also for projects idea.
 > This repo is ongoing until all algorithms are already :card_index_dividers:
 
-For more information can connect with me [@paiscapital](https://www.instagram.com/paiscapital)
+For more information, you can connect with me [@paiscapital](https://www.instagram.com/paiscapital)
 >
-**Keep learning**
+**Keep learning, Keep searching, Keep trying**
