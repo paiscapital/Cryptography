@@ -5,8 +5,18 @@
 
 ### Algorithm
 ```
-1. Scytale Cipher
-2. 
+1.  Scytale Cipher
+2.  Atbash Cipher
+3.  Caesar Cipher
+4.  Pigpen Cipher
+5.  Kama-Sutra Cipher
+6.  Zodiac Cipher (Ancient Egypt)
+7.  Al-Kindi Cipher
+8.  Vigenère Cipher
+9.  Polybius Square Cipher
+10. Avicenna Cipher
+11. The Voynich Manuscript
+12. Substitution Cipher in the Papal
 ```
 > [!NOTE]
 > Useful information & code for everyone to learn cryptography, also for projects idea.
