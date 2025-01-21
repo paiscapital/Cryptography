@@ -10,7 +10,7 @@
 3.  Caesar Cipher
 4.  Pigpen Cipher
 5.  Kamasutra Cipher
-6.  Zodiac Cipher
+6.  Zodiac Killer Cipher
 7.  Al-Kindi Cipher
 8.  Vigenère Cipher
 9.  Polybius Square Cipher
