@@ -1,7 +1,7 @@
 # Zodiac Cipher
 
 ### What is?
-> Cipher from a killer in 1968-69 with a 340-character cryptogram (Z340) to the Chronicle.
+> Cipher from a Serial killer in 1968-69 with a 340-character cryptogram (Z340) to the Chronicle.
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/7/7f/Zodiac_Killer_cipher%2C_Vallejo_Times-Herald%2C_July_31st_1969.jpg)
 
