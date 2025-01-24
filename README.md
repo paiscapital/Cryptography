@@ -11,10 +11,10 @@
 4.  Pigpen Cipher
 5.  Kamasutra Cipher
 6.  Zodiac Killer Cipher
-7.  Al-Kindi Cipher
+7.  Al-Kindi Cipher ❌️
 8.  Vigenère Cipher
 9.  Polybius Square Cipher
-10. Avicenna Cipher
+10. Avicenna Cipher ❌️
 11. The Voynich Manuscript
 12. The Papal
 13. Leon Battista Alberti’s Cipher Disk
