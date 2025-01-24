@@ -1,4 +1,3 @@
-
 ### Cryptography (Ongoing)
 ![alt](https://cdn-icons-png.flaticon.com/512/2810/2810149.png)
 >The process of hiding or coding information so that only the person a message was intended for can read it
@@ -16,7 +15,7 @@
 9.  Polybius Square Cipher
 10. Avicenna Cipher ❌️
 11. The Voynich Manuscript
-12. The Papal
+12. The Alberti Cipher
 13. Leon Battista Alberti’s Cipher Disk
 14. Cipher of Mary, Queen of Scots
 15. Spanish Polygraphia
@@ -87,6 +86,7 @@
 80. Anubis Cipher
 81. Grand Cru Cipher
 82. Hierocrypt Cipher
+83. Cardinal Richelieu Cipher
 ```
 > [!NOTE]
 > Useful information & code for everyone to learn cryptography, also for projects idea.
