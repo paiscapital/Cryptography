@@ -87,6 +87,7 @@
 81. Grand Cru Cipher
 82. Hierocrypt Cipher
 83. Cardinal Richelieu Cipher
+84. One Time Pad (OTP)
 ```
 > [!NOTE]
 > Useful information & code for everyone to learn cryptography, also for projects idea.
