@@ -1,8 +1,8 @@
 # One-Time-Pad Cipher
 
 ### What is?
-> Method of encrypting alphabetic text by using a series of interwoven Caesar ciphers based on the letters of a keyword. Though the 'chiffre indéchiffrable' is easy to understand and implement, for three centuries it resisted all attempts to break it.
-> 
+> Encryption technique that cannot be cracked, but requires the use of a single-use pre-shared key that is larger than or equal to the size of the message being sent. In this technique, a plaintext is paired with a random secret key.
+>
 ![alt text](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fsrep03543/MediaObjects/41598_2013_Article_BFsrep03543_Fig1_HTML.jpg)
 
 ### Logic Algorithm
